@@ -14,3 +14,8 @@ Features:</br>
 -Show todo by date.</br>
 -Add date,priority to to do task.</br>
 -Clean Ui.</br>
+
+<h1>Screenshots </h1>
+![alt text](https://github.com/roshanaryal/TODO_LIst/blob/master/Screenshot_20210330_073852.png)
+![alt text](https://github.com/roshanaryal/TODO_LIst/blob/master/Screenshot_20210330_073859.png)
+![alt text](https://github.com/roshanaryal/TODO_LIst/blob/master/Screenshot_20210330_073914.png)
