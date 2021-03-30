@@ -16,4 +16,4 @@ Features:</br>
 -Clean Ui.</br>
 
 <h1>Screenshots </h1>
-![Screenshot](Screenshot_20210330_073852.png)
+<img src="https://raw.githubusercontent.com/roshanaryal/TODO_LIst/master/Screenshot_20210330_073852.png" width="350" title="screenshot">
