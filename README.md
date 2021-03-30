@@ -17,3 +17,7 @@ Features:</br>
 
 <h1>Screenshots </h1>
 <img src="https://raw.githubusercontent.com/roshanaryal/TODO_LIst/master/Screenshot_20210330_073852.png" width="350" title="screenshot">
+<img src="https://raw.githubusercontent.com/roshanaryal/TODO_LIst/master/Screenshot_20210330_073859.png" width="350" title="screenshot">
+
+<img src="https://raw.githubusercontent.com/roshanaryal/TODO_LIst/master/Screenshot_20210330_073914.png" width="350" title="screenshot">
+
